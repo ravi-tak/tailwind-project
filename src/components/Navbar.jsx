@@ -21,7 +21,7 @@ export default function Navbar() {
         ))}
       </ul>
 
-      <div className='padding-r flex gap-2 font-medium text-black max-lg:hidden'>
+      <div className='flex gap-2 font-medium text-black max-lg:hidden'>
         <a href='/'>Sign in</a>
         <span>/</span>
         <a href='/'>Explore now</a>
